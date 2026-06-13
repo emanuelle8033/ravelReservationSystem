@@ -26,7 +26,7 @@ Sistema para gerenciamento de reservas de viagens, passageiros e destinos.
 2. Configure o banco de dados MySQL
 3. Execute o projeto
 4. Acesse:
-   - **API**: http://localhost:8080
-   - **Swagger**: http://localhost:8080/swagger-ui.html
+   - **API Passageiros**: http://localhost:8080/api/passageiros
+   - **API Destinos**: http://localhost:8080/api/destinos
 
 ## 📂 Estrutura do Projeto
