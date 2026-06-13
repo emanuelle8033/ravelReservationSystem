@@ -1,0 +1,11 @@
+com/biblioteca/repository/ViagemRepository.class
+com/biblioteca/controller/PassageiroController.class
+com/biblioteca/service/PassageiroService.class
+com/biblioteca/model/Passageiro.class
+com/biblioteca/controller/DestinoController.class
+com/biblioteca/TravelReservationApplication.class
+com/biblioteca/repository/DestinoRepository.class
+com/biblioteca/model/Viagem.class
+com/biblioteca/service/DestinoService.class
+com/biblioteca/repository/PassageiroRepository.class
+com/biblioteca/model/Destino.class
